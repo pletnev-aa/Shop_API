@@ -1,3 +1,6 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/9c1d47149e2f4648b1c5/maintainability)](https://codeclimate.com/github/pletnev-aa/Shop_API/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/9c1d47149e2f4648b1c5/test_coverage)](https://codeclimate.com/github/pletnev-aa/Shop_API/test_coverage)
+
 ## О проекте
 Сервис для приема и ответа на HTTP запросы
 
